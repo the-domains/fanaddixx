@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fanaddixx]]></title>
+        <description><![CDATA[Fanaddixx]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Feb 2016 15:33:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Passion for Music]]></title>
+            <description><![CDATA[<article><h1>A Passion for Music</h1><p>Music has changed me, has changed my life.   It all started with Michael Buble and Jim Brickman, but today, I owe the passion I have found for music to one person.  Mark Masri.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc76770e9e1a14727db1661f8374966ea565ee24.jpg"></article>]]></description>
+            <link>undefineda-passion-for-music/index.html</link>
+            <guid isPermaLink="false">314c2067-0159-4290-8e03-0e025634c6b5</guid>
+            <pubDate>Sat, 20 Feb 2016 15:32:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
